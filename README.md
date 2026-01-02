@@ -23,12 +23,8 @@ I’m on a journey to become a pro in software design and development, building 
 
 ## 📊 GitHub Stats
 
-[Stats: https://github-readme-stats.vercel.app/api?username=afrabouzehar
-](https://github-readme-stats.vercel.app/api?username=afrabouzehar&show_icons=true&cache_seconds=86400
-)
-[Top Languages: https://github-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact
-](https://github-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact&cache_seconds=86400
-)
+![GitHub Streak](https://streak-stats.demolab.com?user=afrabouzehar&theme=radical&hide_border=true)
+
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 
 
