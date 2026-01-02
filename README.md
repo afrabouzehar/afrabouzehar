@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Afra
+# 👋 Hi, I'm Afra
 
 I'm a beginner in software design & development.     
 I' sharing my progress and building small projects to improve my skills.
