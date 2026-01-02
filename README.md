@@ -21,13 +21,6 @@ I’m on a journey to become a pro in software design and development, building 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />](https://github.com/afrabouzehar) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://linkedin.com/in/afra-bouzehar-08b140397) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" />](mailto:bouzehar.afra@gmail.com) [<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />](https://instagram.com/yourusername)
 
 
-## 📊 GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
-
-![Afra's GitHub stats](https://afra-readme-stats.vercel.app/api?username=afrabouzehar&show_icons=true&theme=radical)
-
-![Top Languages](https://afra-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact&theme=radical)
-
-
 
