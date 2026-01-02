@@ -23,8 +23,6 @@ I’m on a journey to become a pro in software design and development, building 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=afrabouzehar&theme=radical&hide_border=true)
-
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 
 
