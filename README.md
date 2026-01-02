@@ -58,7 +58,5 @@ I’m on a journey to become a pro in software design and development, building 
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
-![Afra's GitHub stats](https://afra-readme-stats.vercel.app/api?username=afrabouzehar&show_icons=true&theme=radical)
-![Top Languages](https://afra-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact&theme=radical)
 
 
