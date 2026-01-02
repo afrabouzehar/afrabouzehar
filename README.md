@@ -1,13 +1,19 @@
 #👋 Hi, I'm Afra
 
-I'm a beginner in software design & development.
+I'm a beginner in software design & development.     
 
 ## 🛠️ Languages I'm Learning
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Languages I'm Learning
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />](https://en.wikipedia.org/wiki/C_(programming_language))
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />](https://www.python.org)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 I' sharing my progress and building small projects to improve my skills.
 I’m on a journey to become a pro in software design and development, building creative and impactful projects.
@@ -24,4 +30,12 @@ I’m on a journey to become a pro in software design and development, building 
 - [Instagram](https://instagram.com/afra_bouzehar)
 - [LinkedIn](https://linkedin.com/in/y)
 - [GitHub](https://github.com/afrabouzehar)
+
+  ![Afra's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrabouzehar&show_icons=true&theme=radical)
+  
+    ![Visitor Count](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact&theme=radical)
+
+
 
