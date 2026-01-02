@@ -4,7 +4,7 @@ I'm a beginner in software design & development.
 I' sharing my progress and building small projects to improve my skills.
 I’m on a journey to become a pro in software design and development, building creative and impactful projects.
 
-## 🛠️ Languages I'm Learning
+## 🛠️ Languages I'm Learning currently:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />](https://en.wikipedia.org/wiki/C_(programming_language))[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />](https://www.python.org)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/HTML)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/CSS)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -15,10 +15,38 @@ I’m on a journey to become a pro in software design and development, building 
 - Starting CSS styling
 - Creating Python Calendar
 
+## 🔹 Programming Languages
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://www.python.org)
+
+## 🔹 Web Technologies
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## 🔹 Frameworks & Libraries
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />](https://getbootstrap.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://react.dev)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />](https://nodejs.org)
+
+## 🔹 Databases
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />](https://www.postgresql.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />](https://www.mysql.com)
+
+## 🔹 Platforms & Tools
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />](https://firebase.google.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
+
+
+
 ## 📫 How to reach me
 - Email: bouzehar.afra@gmail.com
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />](https://github.com/afrabouzehar) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://linkedin.com/in/afra-bouzehar-08b140397) [<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrabouzehar)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzehar.afra@gmail.com)
 
 
 
