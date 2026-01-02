@@ -49,7 +49,7 @@ I’m on a journey to become a pro in software design and development, building 
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />](https://nodejs.org)
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+<img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" width="60" />
 
 ### 🔹 Databases
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />](https://www.postgresql.org)
