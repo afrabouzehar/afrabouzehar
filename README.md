@@ -61,7 +61,7 @@ I’m on a journey to become a pro in software design and development, building 
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
 &nbsp;&nbsp;&nbsp;
-![GitLab Logo](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/gitlab-full-logo)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
 
 
 
