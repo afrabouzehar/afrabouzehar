@@ -61,15 +61,14 @@ I’m on a journey to become a pro in software design and development, building 
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
 
+
 # 🌍 Polyglot Core: 
 
-## 🌍 Languages I Speak
+## Languages I Speak
 ![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)
 
-## 📖 Languages I'm Learning
-![Russian](https://img.shields.io/badge/Russian-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)
-![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)
-![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+## Languages I'm Learning
+![Russian](https://img.shields.io/badge/Russian-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)
 
 ## 📫 How to reach me
 
