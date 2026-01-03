@@ -60,6 +60,9 @@ I’m on a journey to become a pro in software design and development, building 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />](https://firebase.google.com)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
+&nbsp;&nbsp;&nbsp;
+![GitLab Logo](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/gitlab-full-logo)
+
 
 
 ## 🌍 Polyglot Core: 
