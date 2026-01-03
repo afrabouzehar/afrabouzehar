@@ -63,17 +63,13 @@ I’m on a journey to become a pro in software design and development, building 
 
 # 🌍 Polyglot Core: 
 
-##  Languages I Speak
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_Kingdom.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="40"/>
+## 🌍 Languages I Speak
+![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)
 
 ## 📖 Languages I'm Learning
-<img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="40"/>
-
+![Russian](https://img.shields.io/badge/Russian-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)
+![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)
 
 ## 📫 How to reach me
 
