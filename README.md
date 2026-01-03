@@ -61,6 +61,18 @@ I’m on a journey to become a pro in software design and development, building 
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
 
+# 🌍 Polyglot Core: 
+
+##  Languages I Speak
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_Kingdom.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="40"/>
+
+## 📖 Languages I'm Learning
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="40"/>
 
 
 ## 📫 How to reach me
