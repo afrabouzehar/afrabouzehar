@@ -1,27 +1,8 @@
 # 👋 Hi, I'm Afra
 
-I'm a software designer & developer.     
-I'm sharing my progress and building small projects to improve my skills.
-I’m on a journey to become a pro in software design and development, building creative and impactful projects.
-
-## 🛠️ Languages I'm Learning currently:
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />](https://en.wikipedia.org/wiki/C_(programming_language))&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />](https://www.python.org)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## 🎯 Learning Goals
-
-- ✅ Master HTML/CSS layout and styling  
-- ✅ Build interactive JavaScript components  
-- 🔄 Master Python. 
-- 🔄 Explore Firebase for authentication  
-- 🔄 Create a full-stack mini project
-
-## 🌱 Current projects
-
-- 🔤 HTML Basics: learning tags, attributes, and structure  
-- 🎨 CSS Styling: experimenting with layouts and colors  
-- 🐍 Python Calendar: building a mini tool 
-- 🌐 GitHub Pages: deploying your first site
+💻 Software Designer & Developer | Building automation, web, and system solutions.
+🔧 Current Skills: C, Python, Bash, Linux, GitLab CI/CD, Regex  
+🌱 Exploring: Automation, Web Development, System Projects
 
 
 ## 💡 Core Technologies
@@ -76,7 +57,7 @@ I’m on a journey to become a pro in software design and development, building 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzehar.afra@gmail.com)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 
 
