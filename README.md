@@ -36,13 +36,11 @@ I’m on a journey to become a pro in software design and development, building 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://www.python.org)
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-
-### 🔹 Web Technologies
+&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### 🔹 Frameworks & Libraries
+&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />](https://getbootstrap.com)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://react.dev)
@@ -50,13 +48,11 @@ I’m on a journey to become a pro in software design and development, building 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />](https://nodejs.org)
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" width="60" />
-
-### 🔹 Databases
+=&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />](https://www.postgresql.org)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />](https://www.mysql.com)
-
-### 🔹 Platforms & Tools
+&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />](https://firebase.google.com)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
