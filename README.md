@@ -31,7 +31,7 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" width="60" />
 &nbsp;&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=database&logoColor=white)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/SQL)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />](https://www.postgresql.org)
 &nbsp;&nbsp;&nbsp;
