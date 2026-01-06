@@ -26,7 +26,7 @@ I’m on a journey to become a pro in software design and development, building 
 
 ## 💡 Core Technologies
 
-][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@ I’m on a journey to become a pro in software design and development, building 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />](https://nodejs.org)
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" width="60" />
-=&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />](https://www.postgresql.org)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />](https://www.mysql.com)
