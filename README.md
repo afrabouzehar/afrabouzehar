@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afra
 
-I'm a beginner in software design & development.     
+I'm a software designer & developer.     
 I'm sharing my progress and building small projects to improve my skills.
 I’m on a journey to become a pro in software design and development, building creative and impactful projects.
 
