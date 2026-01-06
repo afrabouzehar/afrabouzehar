@@ -26,8 +26,7 @@ I’m on a journey to become a pro in software design and development, building 
 
 ## 💡 Core Technologies
 
-### 🔹 Programming Languages
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
+][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;&nbsp;&nbsp;
