@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Afra
+# 👋Hi, I'm Afra
 
 - 💻 **Software Designer & Developer** 
 - 🔧 **Current Skills:** C, Python, Bash, Linux, Regex 
@@ -7,7 +7,7 @@
 
 
 
-## 💡 Core Technologies
+## 💡Core Technologies
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
 &nbsp;&nbsp;&nbsp;
@@ -45,11 +45,8 @@
 
 ## 🌍 Polyglot Core: 
 
-### Languages I Speak
-![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)
 
-### Languages I'm Learning
-![Russian](https://img.shields.io/badge/Russian-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;[German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)
 
 ## 📫 How to reach me
 
