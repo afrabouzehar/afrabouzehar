@@ -57,7 +57,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzehar.afra@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrabouzehar&layout=compact&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 
 
