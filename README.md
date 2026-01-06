@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Afra
 
 💻 Software Designer & Developer | Building automation, web, and system solutions.
-🔧 Current Skills: C, Python, Bash, Linux, GitLab CI/CD, Regex  
+🔧 Current Skills: C, Python, Bash, Linux, GitLab CI/CD, Regex.
 🌱 Exploring: Automation, Web Development, System Projects
 
 
