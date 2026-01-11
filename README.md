@@ -3,7 +3,7 @@
 - 💻 **Early-career Software Designer & Developer** 
 - 🔧 **Current Skills:** C, Python, Bash, Linux, Regex 
 - 🌱 **Exploring:** automation, web, and system projects  
-- 🌍 **Multilingual communicator:** Arabic, French, English, Spanish | **Learning:** German, Korean
+- 🌍 **Multilingual communicator:** Arabic, French, English, Spanish | **Learning:** German, Korean, Russian
 
 
 
