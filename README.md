@@ -58,6 +58,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzehar.afra@gmail.com)
 
 
+## One day I will become a pro, and that's where I start my work  ✌️🤏🏻
+
+  
+
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 
 
