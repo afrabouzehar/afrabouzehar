@@ -10,42 +10,43 @@
 ## 💡Core Technologies
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C_(programming_language))
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/C%2B%2B)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://www.python.org)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />](https://getbootstrap.com)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://react.dev)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />](https://nodejs.org)
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" width="60" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" />](https://en.wikipedia.org/wiki/SQL)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />](https://www.postgresql.org)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />](https://www.mysql.com)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />](https://firebase.google.com)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" />](https://vercel.com)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+<i class="devicon-github-original" width="40" height="40"></i>
           
 
 
