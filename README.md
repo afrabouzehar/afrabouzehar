@@ -67,5 +67,7 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/afrabouzehar/afrabouzehar)
+
 
 
