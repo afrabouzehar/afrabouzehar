@@ -48,7 +48,7 @@
 ## 🌍 Polyglot Core: 
 
 
-![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)![Russian](https://img.shields.io/badge/Russian-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=blue)
+![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Russian](https://img.shields.io/badge/Russian-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=blue)
 
 ## 📫 How to reach me
 
@@ -58,7 +58,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzehar.afra@gmail.com)
 
 
-### One day I will become a pro, and that's where I start my work  ✌️🤏🏻
+### I live for the day my dreams come true ✌️🤏🏻
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
