@@ -45,8 +45,8 @@
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 &nbsp;&nbsp;
-<i class="devicon-github-original"></i>
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+                              
 
 
 ## 🌍 Polyglot Core: 
