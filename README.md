@@ -68,6 +68,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/afrabouzehar/afrabouzehar)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiafrabouzeharanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://afra-readme-stats.vercel.app/apiafrabouzeharanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
