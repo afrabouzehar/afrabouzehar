@@ -3,7 +3,7 @@
 - 💻 **Early-career Software Designer & Developer** 
 - 🔧 **Current Skills:** C, Python, Bash, Linux, Regex 
 - 🌱 **Exploring:** automation, web, and system projects  
-- 🌍 **Multilingual communicator:** Arabic, French, English, Spanish | **Learning:** German, Korean, Russian
+- 🌍 **Multilingual communicator:** Arabic, French, English, Spanish, German
 
 
 
@@ -52,7 +52,7 @@
 ## 🌍 Polyglot Core: 
 
 
-![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![Korean](https://img.shields.io/badge/Korean-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Russian](https://img.shields.io/badge/Russian-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=blue)
+![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;
 
 ## 📫 How to reach me
 
