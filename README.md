@@ -47,7 +47,7 @@
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
                               
-
+![Tech](https://skillicons.dev/icons?i=js,html,css,C,py,sql,github,git,react,nodejs,laravel,mysql,vercel,gitlab)](https://skillicons.dev)
 
 ## 🌍 Polyglot Core: 
 
