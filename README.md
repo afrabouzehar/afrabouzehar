@@ -69,6 +69,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/afrabouzehar/afrabouzehar)
 &nbsp;&nbsp;
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=afrabouzehar&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-afrabouzehar.vercel.app/?user=afrabouzehar&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
 
 
