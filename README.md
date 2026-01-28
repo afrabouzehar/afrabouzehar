@@ -71,4 +71,4 @@
 # 
 ![Afra's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrabouzehar&show_icons=true&theme=transparent)
 # 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=afrabouzehar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=afrabouzehar&theme=dark)](https://git.io/streak-stats)
