@@ -9,7 +9,7 @@
 
 ## 💡Core Technologies
                               
-![Tech](https://skillicons.dev/icons?i=c,py,cpp,js,html,css,bootstrap,php,laravel,nodejs,react,nextjs,postgres,mysql,github,git,vscode,vercel,gitlab,linux,ubuntu,phpstorm,webstorm,pycharm,windows,githubdesktop)
+![Tech](https://skillicons.dev/icons?i=c,py,cpp,js,html,css,bootstrap,php,laravel,nodejs,react,nextjs,postgres,mysql,github,git,vscode,vercel,gitlab,linux,ubuntu,phpstorm,webstorm,pycharm,windows,)
 
 ### 🌍 Polyglot Core: 
 
