@@ -11,7 +11,7 @@
                               
 ![Tech](https://skillicons.dev/icons?i=c,py,cpp,js,html,css,bootstrap,php,laravel,nodejs,react,nextjs,postgres,mysql,github,git,vscode,vercel,gitlab,linux,ubuntu,phpstorm,webstorm,pycharm,windows)
 
-## 🌍 Polyglot Core: 
+### 🌍 Polyglot Core: 
 
 
 ![Arabic](https://img.shields.io/badge/Arabic-%23FF2D20.svg?style=for-the-badge&logo=google-translate&logoColor=white) &nbsp;![French](https://img.shields.io/badge/French-%230077B5.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![English](https://img.shields.io/badge/English-%23000000.svg?style=for-the-badge&logo=google-translate&logoColor=white)&nbsp;![Spanish](https://img.shields.io/badge/Spanish-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;![German](https://img.shields.io/badge/German-%23FFCC00.svg?style=for-the-badge&logo=google-translate&logoColor=black)&nbsp;
