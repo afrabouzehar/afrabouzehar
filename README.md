@@ -39,4 +39,4 @@
 
 # 
 
-![Afra's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrabouzehar)
+![Afra's GitHub stats](https://afra-readme-stats.vercel.app/api?username=afrabouzehar)
