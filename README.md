@@ -1,6 +1,7 @@
 # 👋Hi, I'm Afra
 
-- 💻 **Early-career Software Designer & Developer** 
+- 💻 **Early-career Software Designer & Developer**
+- **Aspiring full-stack developer.** 
 - 🔧 **Current Skills:** C, Python, Bash, Linux, Regex 
 - 🌱 **Exploring:** automation, web, and system projects  
 - 🌍 **Multilingual communicator:** Arabic, French, English, Spanish, German
