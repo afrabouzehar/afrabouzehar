@@ -2,7 +2,7 @@
 
 - 💻 **Early-career Software Designer & Developer**
 - **Aspiring full-stack developer.** 
-- 🔧 **Current Skills:** C, Python, Bash, Linux, Regex 
+- 🔧 **Current Skills:** C, Python, Bash, Linux, Regex, HTML5,CSS3
 - 🌱 **Exploring:** automation, web, and system projects  
 - 🌍 **Multilingual communicator:** Arabic, French, English, Spanish, German
 
