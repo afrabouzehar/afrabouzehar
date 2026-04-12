@@ -31,7 +31,7 @@
 ---
 
 ### I live for the day my dreams come true ✌️🤏🏻
-
+### Keep it simple, stupid.
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=afrabouzehar&color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/afrabouzehar/afrabouzehar)
